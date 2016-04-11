@@ -1,0 +1,7 @@
+services:
+    alpixel_asset.twig.extension.asset_versionning:
+        class: Alpixel\Bundle\AssetVersionBundle\Twig\Extension\AssetVersionExtension
+        arguments:
+            - "%kernel.root_dir%"
+        tags:
+            - { name: twig.extension }
