@@ -4,6 +4,8 @@ AlpixelAssetVersionBundle
 
 [![Latest Stable Version](https://poser.pugx.org/alpixel/assetversionbundle/v/stable)](https://packagist.org/packages/alpixel/assetversionbundle)
 
+Since Symfony 3.3, you should use http://symfony.com/blog/new-in-symfony-3-3-manifest-based-asset-versioning
+
 ## Installation
 
 
